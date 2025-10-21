@@ -12,6 +12,7 @@ NPC: Chapel Maid, above Moss Mother arena on surface
 Bone Bottom
 ----
 NPC: Little Pilgrim, beside bench
+Bellway, Bone Bottom
 NPC: Fearful Pilgrim, inside bellway
 NPC: Pebb, vendor, right of bellway
 - Tool: Magnetite Brooch [120]
@@ -20,6 +21,9 @@ NPC: Pebb, vendor, right of bellway
 - Simple Key [500]
 - Rosary String [80] inf
 NPC: Flick the Fixer, at wishwall
+Wishwall
+- Task: Bone Bottom Repairs
+- Task: Garb of the Pilgrims
 NPC: Sherma, right of town, at the gate
 
 Mosshome
@@ -33,8 +37,6 @@ Spool Fragment, left of breakable wall
 NPC: Moss Druid, past silk wall
 - Task: Berry Picking
   * Tool: Druid's Eye, reward for Task Berry Picking
-Boss: Bell Beast
-- Silk Heart, reward for Bell Beast
 
 THE MARROW
 ====
@@ -52,4 +54,25 @@ NPC: Shakra, mapping vendor by Mosshome
 - Compass [70]
 - Bench Pins [60]
 - Shell Marker [40]
-Ring first bell, bench right of Bell Beast arena
+Boss: Bell Beast
+- Silk Heart, reward for Bell Beast
+Bellway, The Marrow
+Bell 1, bench right of Bell Beast arena
+Craftmetal: right side behind big explody wall
+NPC: Grindle
+Tool: Straight Pin
+Flea: top left room, top right side
+
+DEEP DOCKS
+====
+bench [30]
+Shakra
+- Deep Docks Map [50]
+- Bellway Pins [60]
+- Vendor Pins [80]
+- Ring Marker [40]
+Bellway, Deep Docks [40]
+Flea: breakable wall left Bellway
+Skill: Swift Step, top hallway
+Flea: upper left of Swift Step room
+
