@@ -100,6 +100,8 @@ hidden path, right from Bellway
 NPC: Seamstres, bottom-right path to floating house
 - Task: Flexile Spines
   * Drifter's Cloak
+Mask Shard: up-left path from Seamstress, explody floor
+Boss: Fourth Chorus, path back to the rest of Far Fields
 
 Pilgrim's Rest
 ----
@@ -109,3 +111,16 @@ NPC: Mort, vendor
 - Tool Pouch [220]
 - Memory Locket [150]
 - Rosary String [80]
+
+GREYMOOR
+====
+NPC: Shakra, right of entrance
+- Greymoor Map [70]
+Item: Bone Scroll, left of entrance, down hidden path
+
+Halfway Home
+----
+NPC: Creig
+NPC: Nuu
+- Task: Bugs of Pharloom
+- Hunter's Journal
