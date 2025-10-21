@@ -24,7 +24,10 @@ NPC: Flick the Fixer, at wishwall
 Wishwall
 - Task: Bone Bottom Repairs
 - Task: Garb of the Pilgrims
+- Task: A Lifesaving Bridge
+- Task: Volatile Flintbeetles
 NPC: Sherma, right of town, at the gate
+Item: Weaver Effigy "Carving of Camora", upper-left from Bone Bottom
 
 Mosshome
 ----
@@ -44,6 +47,7 @@ breakable wall, above arena gate on right, rosaries
 bench [30], right of gate arena
 NPC: Fleamaster Mooshka
 - Task: The Lost Fleas
+  * Flea Brew, Grishkin
 NPC: Grishkin
 NPC: Varga
 Tool: Shard Pendant
@@ -66,7 +70,7 @@ Flea: top left room, top right side
 DEEP DOCKS
 ====
 bench [30]
-Shakra
+NPC: Shakra
 - Deep Docks Map [50]
 - Bellway Pins [60]
 - Vendor Pins [80]
@@ -77,7 +81,7 @@ Skill: Swift Step, top hallway
 Flea: upper left of Swift Step room
 Boss: Lace, hall below Swift Step
 Bell 2, bench right of Lace arena
-Spool Fragment: lower hall above door, fire platforms
+Spool Fragment, lower hall above door, fire platforms
 NPC: Forge Daughter, vendor
 - Sting Shard [140]
 - Magma Bell [110]
@@ -89,7 +93,7 @@ FAR FIELDS
 ====
 bench [30]
 Flea: hallway right past trap
-Shakra
+NPC: Shakra
 - Far Fields Map [50]
 Tool: Warding Bell, tower bottom-left, hidden path up
 breakable wall left in Warding Bell room
@@ -100,7 +104,7 @@ hidden path, right from Bellway
 NPC: Seamstres, bottom-right path to floating house
 - Task: Flexile Spines
   * Drifter's Cloak
-Mask Shard: up-left path from Seamstress, explody floor
+Mask Shard, up-left path from Seamstress, explody floor
 Boss: Fourth Chorus, path back to the rest of Far Fields
 
 Pilgrim's Rest
@@ -116,7 +120,15 @@ GREYMOOR
 ====
 NPC: Shakra, right of entrance
 - Greymoor Map [70]
-Item: Bone Scroll, left of entrance, down hidden path
+Item: Bone Scroll "Faded parchment", left of entrance, down hidden path
+Silk Skill: Thread Storm, top-right of Greymoor
+Tool: Threefold Pin
+Flea: lower-right of Greymoor
+Bell 3, above-right of Far Field entrance
+breakable wall, left of Bellway to mite maze
+Bellway [60], left from Halfway Home
+Memory Locket, mite maze upper-right
+Crest: Crest of the Reaper, Chapel
 
 Halfway Home
 ----
@@ -124,3 +136,41 @@ NPC: Creig
 NPC: Nuu
 - Task: Bugs of Pharloom
 - Hunter's Journal
+
+BELLHART
+====
+Task: The Threadspun Town
+Flea: upper-left from Shellwood upper entrance
+Boss: Widow
+- Skill: Needolin
+Bell 4, bench right of Bell Beast arena
+NPC: Pavo
+NPC: Frey, vendor
+- Memory Locket [330]
+- Rosary Necklace [140] inf
+Wishwall
+- Task: Silver Bells
+- Task: My Missing Courier
+- Task: Crawbug Clearing
+NPC: Relic Seeker Scrounge
+NPC: Pinmaster Plinney
+- Task: Pinmaster's Oil
+
+SHELLWOOD
+====
+Tool: Longpin, breakable Wood Wasp nest, lower-right first tower
+bench [40], up after the first gauntlet room
+NPC: Shakra
+- Bellhart Map [40]
+- Shellwood Map [70]
+Item: Pollip Heart, hall between right bench and Skill room
+NPC: Greyroot, middle-lower room, left side
+- Task: Rite of the Pollip
+Bellway [40], upper-left
+bench [40], lower-left
+Flea: bottom of Pollencia tower
+Boss: Sister Splinter, top hallway
+Skill: Cling Grip
+Item: Pollip Heart, up-right from Skill room
+Item: Pollip Heart, breakable wall left of shortcut hallway
+
