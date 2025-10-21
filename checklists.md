@@ -13,6 +13,8 @@ Straight Pin
 Tools Blue
 ----
 Druid's Eye
+Magma Bell
+Warding Bell
 
 Tools Yellow
 ----

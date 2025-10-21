@@ -75,4 +75,37 @@ Bellway, Deep Docks [40]
 Flea: breakable wall left Bellway
 Skill: Swift Step, top hallway
 Flea: upper left of Swift Step room
+Boss: Lace, hall below Swift Step
+Bell 2, bench right of Lace arena
+Spool Fragment: lower hall above door, fire platforms
+NPC: Forge Daughter, vendor
+- Sting Shard [140]
+- Magma Bell [110]
+- Crafting Kit [180]
+- Shard Bundle [50] inf
+NPC: Ballow
 
+FAR FIELDS
+====
+bench [30]
+Flea: hallway right past trap
+Shakra
+- Far Fields Map [50]
+Tool: Warding Bell, tower bottom-left, hidden path up
+breakable wall left in Warding Bell room
+Craftmetal: breakable wall to lower left chest
+bench [30] by Bellway
+Bellway [40]
+hidden path, right from Bellway
+NPC: Seamstres, bottom-right path to floating house
+- Task: Flexile Spines
+  * Drifter's Cloak
+
+Pilgrim's Rest
+----
+NPC: Weary Pilgrim
+NPC: Mort, vendor
+- Weighted Belt [160]
+- Tool Pouch [220]
+- Memory Locket [150]
+- Rosary String [80]
