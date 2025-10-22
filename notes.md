@@ -8,6 +8,7 @@ Mossberry, right of drop, above enemy, pogo to get
 Boss: Moss Mother
 NPC: Chapel Maid, above Moss Mother arena on surface
 - Task: The Great Citadel
+NPC: Chapel Maid, in Moss Mother arena
 
 Bone Bottom
 ----
@@ -26,8 +27,26 @@ Wishwall
 - Task: Garb of the Pilgrims
 - Task: A Lifesaving Bridge
 - Task: Volatile Flintbeetles
+- Task: The Terrible Tyrant
 NPC: Sherma, right of town, at the gate
-Item: Weaver Effigy "Carving of Camora", upper-left from Bone Bottom
+Relic: Weaver Effigy "Carving of Camora", upper-left from Bone Bottom
+Relic: Choral Commandment "dirty and worn", upper-right tower ledge
+
+Mossberry, left of bone gate, held by an Anklid flying above the Chapel
+Crest of the Wanderer, Chapel
+
+WEAVENEST ATLA
+====
+breakable wall, elevator bottom right
+NPC: Eva, crest upgrades
+- Evolved Crest of the Hunter
+wall climb right of elevator bottom
+Spool Fragment, hallway left
+Relic: Rune Harp "beneath Bone Bottom", climb elevator shaft, upper-right path
+breakable wall, lower-right in Rune Harp tower
+Mossberry, lower-right hall before boss, upper platform
+Boss: Moss Mothers
+- Tool: Weavelight
 
 Mosshome
 ----
@@ -64,8 +83,26 @@ Bellway, The Marrow
 Bell 1, bench right of Bell Beast arena
 Craftmetal: right side behind big explody wall
 NPC: Grindle
+NPC: Loddie, pin game, old jail
+- Tool Pouch Expanded
+- Heavy Rosary Necklace
 Tool: Straight Pin
 Flea: top left room, top right side
+
+HUNTER'S MARCH
+====
+Flea: climb left from The Marrow entrance
+NPC: Mottled Skarr, vendor
+- Curveclaw [140]
+- Fractured Mask [260]
+- Shard Bundle [50] inf
+NPC: Gilly, mid-right in tower statue room
+NPC: Sharkra, lower-right tower path
+- Hunter's March Map [70]
+- Hunt Marker [60]
+Memory Locket, on a caged corpse right of Shakra
+Chapel of the Beast, above Shakra, req Drifter's Cloak
+- Crest of the Beast
 
 DEEP DOCKS
 ====
@@ -101,11 +138,14 @@ Craftmetal: breakable wall to lower left chest
 bench [30] by Bellway
 Bellway [40]
 hidden path, right from Bellway
+path up, req Drifter's Cloak and Cling Grip
+Flea: after thorny gauntlet exit up, up-right
 NPC: Seamstres, bottom-right path to floating house
 - Task: Flexile Spines
   * Drifter's Cloak
 Mask Shard, up-left path from Seamstress, explody floor
 Boss: Fourth Chorus, path back to the rest of Far Fields
+
 
 Pilgrim's Rest
 ----
@@ -114,7 +154,7 @@ NPC: Mort, vendor
 - Weighted Belt [160]
 - Tool Pouch [220]
 - Memory Locket [150]
-- Rosary String [80]
+- Rosary String [80] inf
 
 GREYMOOR
 ====
@@ -128,7 +168,9 @@ Bell 3, above-right of Far Field entrance
 breakable wall, left of Bellway to mite maze
 Bellway [60], left from Halfway Home
 Memory Locket, mite maze upper-right
-Crest: Crest of the Reaper, Chapel
+Chapel of the Reaper
+Boss: Savage Beastfly
+- Crest: Crest of the Reaper
 
 Halfway Home
 ----
@@ -147,14 +189,20 @@ Bell 4, bench right of Bell Beast arena
 NPC: Pavo
 NPC: Frey, vendor
 - Memory Locket [330]
+- Multibinder [880]
+- Spool Fragment [270]
+- Shard Bundle [50] inf
 - Rosary Necklace [140] inf
 Wishwall
 - Task: Silver Bells
 - Task: My Missing Courier
 - Task: Crawbug Clearing
+- Task: Restoration of Bellhart
 NPC: Relic Seeker Scrounge
 NPC: Pinmaster Plinney
 - Task: Pinmaster's Oil
+Bellway [40]
+NPC: Courier Tipp
 
 SHELLWOOD
 ====
@@ -166,11 +214,26 @@ NPC: Shakra
 Item: Pollip Heart, hall between right bench and Skill room
 NPC: Greyroot, middle-lower room, left side
 - Task: Rite of the Pollip
+  * Pollip Pouch
 Bellway [40], upper-left
 bench [40], lower-left
 Flea: bottom of Pollencia tower
 Boss: Sister Splinter, top hallway
 Skill: Cling Grip
 Item: Pollip Heart, up-right from Skill room
+Item: Pollip Heart, lower-left in Skill room
 Item: Pollip Heart, breakable wall left of shortcut hallway
+Item: Pollip Heart, bottom-right by Bellhart, req Cling Grip
+Item: Pollip Heart, Greyroot room, right side climb up
+Mask Shard, right of hallway below Skill Room
 
+WORMWAYS
+====
+Mask Shard, breakable wall past Craggler, down-right
+NPC: Alchemist Zylotol
+- Task: Alchemist's Assistant
+  * Plasmium Phial
+Memory Locket, lower-right of lower-left maze
+NPC: Shakra, upper-right
+- Wormways Map [70]
+Tool: Dead Bug's Purse, room above Shakra
