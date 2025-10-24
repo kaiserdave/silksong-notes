@@ -50,6 +50,7 @@ breakable wall, lower-right in Rune Harp tower
 Mossberry, lower-right hall before boss, upper platform
 Boss: Moss Mothers
 - Tool: Weavelight
+Tool: Snare Setter, hall above elevator bottom, jump up, req Faydown Cloak
 
 Mosshome
 ----
@@ -270,6 +271,34 @@ NPC: Shakra, upper-right
 - Wormways Map [70]
 Tool: Dead Bug's Purse, room above Shakra
 
+BLASTED STEPS
+====
+bench [60]
+Memory Locket, down-left before the upper-right exit
+NPC: Shakra, bottom-right of right tower
+- Blasted Steps Map [70]
+- Dark Marker [90]
+- Bronze Marker [120]
+bench [40]
+Bellway [60]
+Tool: Magnetite Dice, lower-left from Bellway
+Flea: left tower, top-left
+Boss: Great Conchflies, tower middle-left path
+NPC: Pinstress, far left floating house
+- Skill: Needle Strike
+NPC: Grindle, top tower left, req Faydown Cloak
+- Thief's Mark [350]
+- Snitch Pick [740]
+- Spool Fragment [680]
+- Psalm Cylinder [240]
+- Crafting Kit [700]
+- Rosary String [80] inf
+Boss: Last Judge
+
+Grand Gate
+----
+Grand Gate Map machine [40]
+
 SINNER'S ROAD
 ====
 NPC: Shakra
@@ -312,6 +341,7 @@ NPC: Old Penitent, cell right of Flea, play music
 unlock floors with Heretic Key
 Spool Fragment, lower-left room, up to hallway, left outside and up
 Bellway [40]
+Flea: above lowest bench, req Faydown Cloak
 
 THE CITADEL
 ====
@@ -323,11 +353,18 @@ Ventrica: Grand Bellway [80]
 Bellway [80]
 Memory Locket, path directly above Bellway
 Task: Pharloom's Crown
+Ventrica: Choral Chambers [80]
 
+Songclave
+----
 Bell 6
 NPC: Caretaker
 Item: White Key, right of bell
 Ventrica: First Shrine [80]
+Wishwall
+- Building up Songclave
+- Fine Pins
+- The Wandering Merchant
 
 Terminus
 ----
@@ -355,3 +392,36 @@ NPC: Twelfth Architect, above bench, req Clawline
 - Architect's Key [110]
 - Shard Bundle [50]
 Ventrica: Underworks [80]
+Crest of the Architect, Chapel req Architect's Key
+Great Gate breaking elevator entrance
+Underworks Map, first tower, middle-left
+NPC: Loam, lower-center hallway, breakable ceiling
+Spool Fragment, bottom-right hallway from the left, by Ventrica
+
+MOUNT FAY
+====
+NPC: Shakra
+- Mount Fay Map [40]
+- Ventrica Pins [80]
+bench [60], lower-left
+breakable wall, right of bench
+Tool: Memory Crystal, down and right through breakable ice
+bench, up past breakable shortcut
+Skill: Faydown Cloak, summit, req Clawline, Needolin
+NPC: Mask Maker, upper-left
+Flea: middle hallway, up hidden path
+Mask Shard, lower-left, req Faydown Cloak
+
+SANDS OF KARAK
+====
+Memory Locket, left from 2nd coral platforms
+NPC: Shakra
+- Sands of Karak Map [90]
+Flea: middle tower, lower-right room, upper-left coral platform path
+bench, right tower, far right hall
+Simple Key, corpse on bench
+drop giant cone to open breakable floor
+down, breakable wall left
+Item: Crustnut, through breakable wall area
+Boss: Great Conchfly
+

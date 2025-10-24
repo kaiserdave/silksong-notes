@@ -29,6 +29,7 @@ Curveclaw
 Pimpillo
 Silkshot
 Flintslate
+Snare Setter
 Flea Brew
 Plasmium Phial
 
@@ -41,6 +42,7 @@ Pollip Pouch
 Fractured Mask
 Weavelight
 Injector Band
+Memory Crystal
 
 Tools Yellow
 ----
@@ -49,6 +51,7 @@ Shard Pendant
 Magnetite Brooch
 Weighted Belt
 Dead Bug's Purse
+Magnetite Dice
 Silkspeed Anklets
 
 Relics
@@ -92,6 +95,7 @@ Pilgrim Bellbearer
 Winged Pilgrim
 Elder Pilgrim
 Winged Pilgrim Bellbearer
+Pilgrim Hiker
 Pilgrim Guide
 Overgrown Pilgrim
 Covetous Pilgrim
@@ -144,11 +148,21 @@ Pollenica
 Gahlia
 Furm
 Winged Furm
+Pharlid
 Pharlid Diver
 Shardillard
+Judge
+Last Judge
+Coral Furm
+Driznit
+Driznarga
+Pokenabbin
+Conchfly
+Great Conchfly
 Drapefly
 Drapemite
 Giant Drapemite
+Underworker
 Underscrub
 Undersweep
 Underpoke
@@ -163,6 +177,7 @@ Choir Elder
 Choristor
 Reed
 Grand Reed
+Clawmaiden
 Dreg Husk
 Mortician
 Cogwork Underfly
@@ -173,7 +188,10 @@ Puny Penitent
 Scabfly
 Guardfly
 Wardenfly
+Driftlin
+Mnemonid
 Servitor Ignim
+Servitor Boran
 Widow
 Phantom
 Lace
