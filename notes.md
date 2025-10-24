@@ -191,6 +191,9 @@ NPC: Kratt, walkway above Halfway Home, breakable wall right
 NPC: Yarnaby, bellhome upper-left
 Tool: Pimpillo, breakable ceiling above Yarnaby
 Boss: Moorwing, lower-left
+NPC: Fleamaster Mooshka
+- Spool Fragment, reward for moving to the Blasted Steps
+Flea: left tower peak
 
 Halfway Home
 ----
@@ -202,6 +205,17 @@ NPC: Nuu
   * Tool Pouch Expanded
 - Hunter's Journal
 NPC: Exhausted Pilgrim
+
+Wisp Thicket
+----
+Relic: Bone Scroll, right tower top
+Mask Shard, far right past maggot water
+breakable ceiling, left from bench, first building
+Craftmetal, ascend past spikes, right
+breakable wall, left of Craftmetal
+up left to Underworks
+Boss: Father of the Flame, far left from bench
+- Tool: Wispfire Lantern
 
 BELLHART
 ====
@@ -218,6 +232,7 @@ NPC: Frey, vendor
 - Spool Fragment [270]
 - Desk [380]
 - Gleamlights [320]
+- Personal Spa [1100]
 - Bell Lacquer [520]
 - Shard Bundle [50] inf
 - Rosary Necklace [140] inf
@@ -228,6 +243,7 @@ Wishwall
 - Task: Restoration of Bellhart
 - Task: Bellhart's Glory
 - Task: My Missing Brother
+- Task: Savage Beastfly
 NPC: Relic Seeker Scrounge
 NPC: Pinmaster Plinney
 - Task: Pinmaster's Oil
@@ -354,6 +370,11 @@ Bellway [80]
 Memory Locket, path directly above Bellway
 Task: Pharloom's Crown
 Ventrica: Choral Chambers [80]
+Flea: tower above Citadel Spa, middle-right room
+Boss: Cogwork Dancers
+- Task: Conductor's Melody
+- Task: Architect's Melody
+- Task: Vaultkeeper's Melody
 
 Songclave
 ----
@@ -365,6 +386,23 @@ Wishwall
 - Building up Songclave
 - Fine Pins
 - The Wandering Merchant
+- Cloaks of the Choir
+- Balm for the Wounded
+NPC: Sherma
+NPC: Jubilana, vendor
+- Ascendant's Grip [350]
+- Mask Shard [750]
+- Simple Key [650]
+- Spool Extender [720]
+- Rosary String [80] inf
+
+High Halls
+----
+Spool Fragment, tower top, req Clawline, Faydown Cloak
+Psalm Cylinder: breakable wall left through tunnel maze
+Ventrica [80]
+High Halls Map [70]
+NPC: Conductor Ballador
 
 Terminus
 ----
@@ -397,6 +435,8 @@ Great Gate breaking elevator entrance
 Underworks Map, first tower, middle-left
 NPC: Loam, lower-center hallway, breakable ceiling
 Spool Fragment, bottom-right hallway from the left, by Ventrica
+Flea: from Wisp Thicket, past spike block gauntlet
+breakable shortcut, right from Flea
 
 MOUNT FAY
 ====
@@ -425,3 +465,17 @@ down, breakable wall left
 Item: Crustnut, through breakable wall area
 Boss: Great Conchfly
 
+Memorium
+----
+Memorium Map [70]
+Item: Cogheart Piece, 2nd floor right, cogwork memory puzzle
+Mossberry, lowest floor right of bench
+Memory Locket, 3rd floor left past thorns
+Spool Fragment, 4th floor left, down through thorny platform area
+Ventrica [80]
+Item: Materium, 4th floor right
+Huge Flea, top
+
+Cogwork Core
+----
+Cogwork Core Map

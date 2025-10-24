@@ -43,6 +43,7 @@ Fractured Mask
 Weavelight
 Injector Band
 Memory Crystal
+Wispfire Lantern
 
 Tools Yellow
 ----
@@ -66,6 +67,7 @@ Rune Harp: Plea of a Weaver from the furthest edge of Pharloom
 Journal
 ----
 Mossgrub
+Massive Mossgrub
 Mossmir
 Moss Mother
 Aknid
@@ -124,6 +126,8 @@ Dreg Catcher
 Silk Snipper
 Thread Raker
 Moorwing
+Wisp
+Burning Bug
 Craw
 Tallcraw
 Squatcraw
@@ -159,6 +163,7 @@ Driznarga
 Pokenabbin
 Conchfly
 Great Conchfly
+Crustcrag
 Drapefly
 Drapemite
 Giant Drapemite
@@ -177,7 +182,10 @@ Choir Elder
 Choristor
 Reed
 Grand Reed
+Choir Clapper
 Clawmaiden
+Minister
+Maestro
 Dreg Husk
 Mortician
 Cogwork Underfly
@@ -192,6 +200,7 @@ Driftlin
 Mnemonid
 Servitor Ignim
 Servitor Boran
+Huge Flea
 Widow
 Phantom
 Lace
