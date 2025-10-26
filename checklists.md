@@ -17,6 +17,7 @@ Silk Skills
 Silkspear
 Thread Storm
 Cross Stitch
+Sharpdart
 
 Tools Red
 ----
@@ -28,6 +29,7 @@ Longpin
 Curveclaw
 Pimpillo
 Silkshot
+Cogfly
 Flintslate
 Snare Setter
 Flea Brew
@@ -41,7 +43,9 @@ Warding Bell
 Pollip Pouch
 Fractured Mask
 Weavelight
+Spool Extender
 Injector Band
+Claw Mirror
 Memory Crystal
 Wispfire Lantern
 
@@ -53,16 +57,48 @@ Magnetite Brooch
 Weighted Belt
 Dead Bug's Purse
 Magnetite Dice
+Ascendant's Grip
 Silkspeed Anklets
+
+Materium
+----
+Silk
+Shell Shards
+Rosaries
+Shell Rosaries
+Pearl Rosaries
+Mossberry
+Pilgrim Shawl
+Flintgem
+Craftmetal
+Spine Core
+Crown Fragment
+Horn Fragment
+Silver Bell
+Pale Oil
+Plasmium
+Ragpelt
+Pollip Heart
+Roach Guts
+Courier's Swag
+Choir Cloak
 
 Relics
 ----
 Bone Scroll: Faded parchment containing the last words of a lost pilgrim
+Bone Scroll: Crumpled parchment containing the prayer of a Burning Bug
 Weaver Effigy: Carving of Camora, Weaver of healing
 Choral Commandment: Decree of the Citadel, dirty and worn
 Choral Commandment: Surgeon's orders
 Rune Harp: Words of a Weaver from the nest beneath Bone Bottom
 Rune Harp: Plea of a Weaver from the furthest edge of Pharloom
+
+Cylinders
+----
+Psalm Cylinder: Voices of the Choir
+Psalm Cylinder: Guide track for the Choir
+Psalm Cylinder: Sermon of Service
+Sacred Cylinder: Sacred melody of the Vaultkeepers
 
 Journal
 ----
@@ -108,6 +144,7 @@ Flintstone Flyer
 Flintflame Flyer
 Smokerock Sifter
 Deep Diver
+Cragglite
 Craggler
 Brushflit
 Fertid
@@ -131,7 +168,10 @@ Burning Bug
 Craw
 Tallcraw
 Squatcraw
+Muckmaggot
+Slubberlug
 Muckroach
+Bloatroach
 Roachcatcher
 Roachfeeder
 Roachkeeper
@@ -187,10 +227,21 @@ Clawmaiden
 Minister
 Maestro
 Dreg Husk
+Surgeon
 Mortician
 Cogwork Underfly
 Cogwork Hauler
+Cogwork Crawler
 Cogworker
+Cogwork Spine
+Cogwork Choirbug
+Cogwork Cleanser
+Cogwork Defender
+Cogwork Dancers
+Lampbearers
+Scrollreader
+Vaultkeeper
+Trobbio
 Penitent
 Puny Penitent
 Scabfly

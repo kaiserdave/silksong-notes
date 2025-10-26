@@ -43,6 +43,7 @@ breakable wall, elevator bottom right
 NPC: Eva, crest upgrades
 - Evolved Crest of the Hunter
 - Vesticrest Yellow
+- Vesticrest Blue
 wall climb right of elevator bottom
 Spool Fragment, hallway left
 Relic: Rune Harp "beneath Bone Bottom", climb elevator shaft, upper-right path
@@ -165,6 +166,7 @@ NPC: Mort, vendor
 - Tool Pouch [220]
 - Memory Locket [150]
 - Rosary String [80] inf
+NPC: Little Pilgrim Pilby
 
 Weavenest Cindril
 ----
@@ -194,12 +196,14 @@ Boss: Moorwing, lower-left
 NPC: Fleamaster Mooshka
 - Spool Fragment, reward for moving to the Blasted Steps
 Flea: left tower peak
+Spool Fragment, top right of Far Fields entrance, req Faydown Cloak
 
 Halfway Home
 ----
 NPC: Creig
 - Task: Crawbug Clearing
   * Crafting Kit Expanded
+- Vintage Nectar, for Great Taste of Pharloom
 NPC: Nuu
 - Task: Bugs of Pharloom
   * Tool Pouch Expanded
@@ -208,7 +212,7 @@ NPC: Exhausted Pilgrim
 
 Wisp Thicket
 ----
-Relic: Bone Scroll, right tower top
+Relic: Bone Scroll "Cumpled parchment", right tower top
 Mask Shard, far right past maggot water
 breakable ceiling, left from bench, first building
 Craftmetal, ascend past spikes, right
@@ -244,6 +248,8 @@ Wishwall
 - Task: Bellhart's Glory
 - Task: My Missing Brother
 - Task: Savage Beastfly
+  * Horn Fragment
+    - Mask Shard
 NPC: Relic Seeker Scrounge
 NPC: Pinmaster Plinney
 - Task: Pinmaster's Oil
@@ -286,6 +292,7 @@ Memory Locket, lower-right of lower-left maze
 NPC: Shakra, upper-right
 - Wormways Map [70]
 Tool: Dead Bug's Purse, room above Shakra
+Silk Skill: Sharpdart, far left
 
 BLASTED STEPS
 ====
@@ -337,6 +344,11 @@ hidden path, Bellway tower upper-right
 Memory Locket, left through breakable wall
 Wardenfly capture area, upper-right room
 breakable wall, left from Bellway, to The Mist
+NPC: Shakra, req Faydown Cloak
+- Bilewater Map [90]
+Memory Locket, upper area, middle hall, far right
+Mask Shard, upper area, lowest hall past Slubberlugs, far right
+Boss: 
 
 Weavenest Murglin
 ----
@@ -375,6 +387,13 @@ Boss: Cogwork Dancers
 - Task: Conductor's Melody
 - Task: Architect's Melody
 - Task: Vaultkeeper's Melody
+NPC: Loyal Mergwin
+- Task: Great Taste of Pharloom
+Boss: Trobbio, stage about Grand Bellway
+- Tool: Claw Mirror
+Pin Oil, from Whispering Vaults left room movable box maze
+Item: Cogheart Piece, tower above Citadel spa middle-left, cogwork memory puzzle
+NPC: Grindle, tower above Citadel spa top-left
 
 Songclave
 ----
@@ -383,26 +402,31 @@ NPC: Caretaker
 Item: White Key, right of bell
 Ventrica: First Shrine [80]
 Wishwall
-- Building up Songclave
-- Fine Pins
-- The Wandering Merchant
-- Cloaks of the Choir
-- Balm for the Wounded
+- Task: Building up Songclave
+- Task: Fine Pins
+- Task: The Wandering Merchant
+- Task: Cloaks of the Choir
+- Task: Balm for the Wounded
+  * Spool Fragment
+- Task: Strengthening Songclave
 NPC: Sherma
 NPC: Jubilana, vendor
-- Ascendant's Grip [350]
+- Tool: Ascendant's Grip [350]
 - Mask Shard [750]
 - Simple Key [650]
-- Spool Extender [720]
+- Tool: Spool Extender [720]
 - Rosary String [80] inf
+Flea: up using Clawline rings to top
+Psalm Cylinder: "service", left back toward Songclave
 
 High Halls
 ----
 Spool Fragment, tower top, req Clawline, Faydown Cloak
-Psalm Cylinder: breakable wall left through tunnel maze
+Psalm Cylinder: "ascendence" breakable wall left through tunnel maze
 Ventrica [80]
 High Halls Map [70]
 NPC: Conductor Ballador
+Tool: Cogfly, right tower middle-left path, req Craftmetal
 
 Terminus
 ----
@@ -415,6 +439,18 @@ Spool Fragment, under elevator
 Item: Silkeater, elevator shaft middle-right path, breakable wall
 map machine: Whiteward [70]
 Tool: Injector Band, up-left from mortician hallway
+
+Whispering Vaults
+----
+NPC: Vaultkeeper Cardinius
+Psalm Cylinder, "sacred song", right of Vaultkeeper Cardinius
+Flea, reward after moving box from lower to upper right
+Memory Locket, hidden path up from moving box, up
+updraft to outside, right of Songclave
+Whispering Vaults Map [70]
+Mask Shard, tower middle-right, hidden path up, push block up
+Item: Cogheart Piece, tower bottom-left, cogwork memory reward
+Sacred Cylinder, bottom hall left of bench from Underworks right
 
 UNDERWORKS
 ====
@@ -437,6 +473,7 @@ NPC: Loam, lower-center hallway, breakable ceiling
 Spool Fragment, bottom-right hallway from the left, by Ventrica
 Flea: from Wisp Thicket, past spike block gauntlet
 breakable shortcut, right from Flea
+Spool Fragment, right side drop down to lava, breakable wall left
 
 MOUNT FAY
 ====
@@ -479,3 +516,7 @@ Huge Flea, top
 Cogwork Core
 ----
 Cogwork Core Map
+breakable wall, lower tower middle-left room, jump up right, req Faydown Cloak
+NPC: Second Sentinel
+Mask Shard, left through combat room, up in tunnels
+req Cogheart
