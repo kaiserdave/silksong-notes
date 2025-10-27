@@ -47,7 +47,10 @@ Spool Extender
 Injector Band
 Claw Mirror
 Memory Crystal
+Wreath of Purity
+Longclaw
 Wispfire Lantern
+Egg of Flealia
 
 Tools Yellow
 ----
@@ -55,9 +58,11 @@ Compass
 Shard Pendant
 Magnetite Brooch
 Weighted Belt
+Barbed Bracelet
 Dead Bug's Purse
 Magnetite Dice
 Ascendant's Grip
+Spider Strings
 Silkspeed Anklets
 
 Materium
@@ -68,7 +73,9 @@ Rosaries
 Shell Rosaries
 Pearl Rosaries
 Mossberry
+Mossberry Stew
 Pilgrim Shawl
+Flintstone
 Flintgem
 Craftmetal
 Spine Core
@@ -81,7 +88,15 @@ Ragpelt
 Pollip Heart
 Roach Guts
 Courier's Swag
+Queen's Egg
+Courier's Rasher
+Vintage Nectar
+Pickled Muckmaggot
+Crustnut
 Choir Cloak
+Seared Organ
+Shredded Organ
+Skewered Organ
 
 Relics
 ----
@@ -90,6 +105,7 @@ Bone Scroll: Crumpled parchment containing the prayer of a Burning Bug
 Weaver Effigy: Carving of Camora, Weaver of healing
 Choral Commandment: Decree of the Citadel, dirty and worn
 Choral Commandment: Surgeon's orders
+Choral Commandment: Last edict of the Conductors
 Rune Harp: Words of a Weaver from the nest beneath Bone Bottom
 Rune Harp: Plea of a Weaver from the furthest edge of Pharloom
 
@@ -139,11 +155,13 @@ Overgrown Pilgrim
 Covetous Pilgrim
 Snitchfly
 Lavalug
+Lavalarga
 Smelt Shoveller
 Flintstone Flyer
 Flintflame Flyer
 Smokerock Sifter
 Deep Diver
+Forebrothers Signis & Gron
 Cragglite
 Craggler
 Brushflit
@@ -175,10 +193,18 @@ Bloatroach
 Roachcatcher
 Roachfeeder
 Roachkeeper
+Roachserver
+Disgraced Chef Lugoli
 Wraith
+Mothleaf Lagnia
 Miremite
 Swamp Squit
+Spit Squit
 Stilkin
+Stilkin Trapper
+Groal the Great
+Barnak
+Duct Sucker
 Pond Skipper
 Pondcatcher
 Shellwood Gnat
@@ -205,6 +231,7 @@ Conchfly
 Great Conchfly
 Crustcrag
 Drapefly
+Drapelord
 Drapemite
 Giant Drapemite
 Underworker

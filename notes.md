@@ -136,6 +136,13 @@ NPC: Forge Daughter, vendor
 NPC: Ballow
 Gate unlock with Simple Key
 Tool: Flintslate, upper-right tower, upper left path
+Clawline Ring door, right tower bottom-right
+Spool Fragment, bottom-right, past the lava clawline explody ball gantlet
+Flea: from combat room, upper left then right
+Materium: Flintstone
+Boss: Forebrothers Signis & Gron, left across bridge and down
+bench, steam room with shortcuts
+Old diving bell, locked by an ornate clamp
 
 FAR FIELDS
 ====
@@ -250,9 +257,12 @@ Wishwall
 - Task: Savage Beastfly
   * Horn Fragment
     - Mask Shard
+- Task: Trail's End
 NPC: Relic Seeker Scrounge
 NPC: Pinmaster Plinney
 - Task: Pinmaster's Oil
+  * Needle Sharpened [Pinmaster's Oil]
+  * Needle Sharpened [Pinmaster's Oil + 450]
 Bellway [40]
 NPC: Courier Tipp
 
@@ -293,6 +303,7 @@ NPC: Shakra, upper-right
 - Wormways Map [70]
 Tool: Dead Bug's Purse, room above Shakra
 Silk Skill: Sharpdart, far left
+Flea: tower bottom-right breakable wall
 
 BLASTED STEPS
 ====
@@ -321,6 +332,7 @@ Boss: Last Judge
 Grand Gate
 ----
 Grand Gate Map machine [40]
+Spool Fragment, top-left of scale room
 
 SINNER'S ROAD
 ====
@@ -333,6 +345,9 @@ NPC: Crull and Benjin, upper-right of right room
   * Tool: Tacks
 Flea: right tower, middle-right room
 NPC: Styx, right tower bottom-right path, gives Silkeaters
+Tool: Barbed Bracelet, left tower bottom-right, right then down
+Boss: Disgraced Chef Lugoli, behind one-way door, req Faydown Cloak
+- Pickled Muckmaggot
 
 BILEWATER
 ====
@@ -348,7 +363,18 @@ NPC: Shakra, req Faydown Cloak
 - Bilewater Map [90]
 Memory Locket, upper area, middle hall, far right
 Mask Shard, upper area, lowest hall past Slubberlugs, far right
-Boss: 
+Boss: Groal the Great, from top-right, far left
+Item: Key of Apostate, upper-left path under a Wardenfly killed by a Barnak
+NPC: Huntress, down to water level and right
+- Task: Broodfeast
+  * Tool: Longclaw
+breakable wall shortcut, right of Huntress
+Flea: upper Bilewater 3rd hall, hidden path up at center, right of U shape
+
+Bilehaven
+----
+Groal the Great arena
+Item: Seeker's Soul
 
 Weavenest Murglin
 ----
@@ -382,13 +408,16 @@ Bellway [80]
 Memory Locket, path directly above Bellway
 Task: Pharloom's Crown
 Ventrica: Choral Chambers [80]
-Flea: tower above Citadel Spa, middle-right room
+Flea: tower above-left of Citadel Spa, middle-right room
+breakable wall, tower right of Citadel Spa bottom-right, start updraft
+Flea: tower right of Citadel Spa, updraft on right
 Boss: Cogwork Dancers
 - Task: Conductor's Melody
 - Task: Architect's Melody
 - Task: Vaultkeeper's Melody
 NPC: Loyal Mergwin
 - Task: Great Taste of Pharloom
+  * Pale Oil
 Boss: Trobbio, stage about Grand Bellway
 - Tool: Claw Mirror
 Pin Oil, from Whispering Vaults left room movable box maze
@@ -409,12 +438,18 @@ Wishwall
 - Task: Balm for the Wounded
   * Spool Fragment
 - Task: Strengthening Songclave
+- Task: The Lost Merchant
+- Task: The Wailing Mother
 NPC: Sherma
 NPC: Jubilana, vendor
 - Tool: Ascendant's Grip [350]
 - Mask Shard [750]
 - Simple Key [650]
 - Tool: Spool Extender [720]
+- Tool: Spider Strings [320]
+- Spool Fragment [500]
+- Craftmetal [180]
+- Choral Commandment [180]
 - Rosary String [80] inf
 Flea: up using Clawline rings to top
 Psalm Cylinder: "service", left back toward Songclave
@@ -520,3 +555,25 @@ breakable wall, lower tower middle-left room, jump up right, req Faydown Cloak
 NPC: Second Sentinel
 Mask Shard, left through combat room, up in tunnels
 req Cogheart
+
+Putrified Ducts
+----
+Bellway [80]
+bench [60]
+Putrified Ducts Map, Bellway tower bottom-left, up via Barnak
+breakable wall shortcut, below tower and left
+breakable wall, upper-right room, break left
+breakable wall shortcut left to Bellway tower
+Tool: Wreath of Purity, right to a corpse
+Barnak lifts up, just right of entrance to room below
+NPC: Vog, left after Barnak lift section
+Craftmetal, far right in Fleatopia
+NPC: Fleamaster Mooshka
+- Toolpouch Expanded
+- Egg of Flealia
+NPC: Grishkin
+NPC: Varga
+NPC: Kratt
+NPC: Vog
+NPC: Vog
+- Flea Findings
