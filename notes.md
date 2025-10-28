@@ -52,7 +52,7 @@ Mossberry, lower-right hall before boss, upper platform
 Boss: Moss Mothers
 - Tool: Weavelight
 Tool: Snare Setter, hall above elevator bottom, jump up, req Faydown Cloak
-
+ 
 Mosshome
 ----
 Silk Skill: Silkspear
@@ -245,6 +245,7 @@ NPC: Frey, vendor
 - Gleamlights [320]
 - Personal Spa [1100]
 - Bell Lacquer [520]
+- Gramophone [490]
 - Shard Bundle [50] inf
 - Rosary Necklace [140] inf
 Wishwall
@@ -324,7 +325,7 @@ NPC: Grindle, top tower left, req Faydown Cloak
 - Thief's Mark [350]
 - Snitch Pick [740]
 - Spool Fragment [680]
-- Psalm Cylinder [240]
+- Psalm Cylinder [240] Guide track for the Choir, with a theme of salvation
 - Crafting Kit [700]
 - Rosary String [80] inf
 Boss: Last Judge
@@ -370,6 +371,10 @@ NPC: Huntress, down to water level and right
   * Tool: Longclaw
 breakable wall shortcut, right of Huntress
 Flea: upper Bilewater 3rd hall, hidden path up at center, right of U shape
+drop down from Songclave
+breakable wall left
+Item: Twisted Bud, up and through more breakable walls
+shortcut back to main area, continue right, then down and left
 
 Bilehaven
 ----
@@ -396,6 +401,15 @@ unlock floors with Heretic Key
 Spool Fragment, lower-left room, up to hallway, left outside and up
 Bellway [40]
 Flea: above lowest bench, req Faydown Cloak
+Boss: Broodmother, for Task: The Wailing Mother
+- Item: Brootmother's Eye
+Apostate locked door, upper floor right
+Mask Shard, platform pogo room
+Heretick locked door, tower bottom-right
+Boss: First Sinner
+- Silk Skill: Rune Rage
+drop down tower to water
+Weaver Effigy "Carving of Atla", right, through breakable walls
 
 THE CITADEL
 ====
@@ -440,6 +454,9 @@ Wishwall
 - Task: Strengthening Songclave
 - Task: The Lost Merchant
 - Task: The Wailing Mother
+  * Heavy Rosary Necklace
+- Task: Final Audience
+  * Throwing Ring
 NPC: Sherma
 NPC: Jubilana, vendor
 - Tool: Ascendant's Grip [350]
@@ -461,7 +478,10 @@ Psalm Cylinder: "ascendence" breakable wall left through tunnel maze
 Ventrica [80]
 High Halls Map [70]
 NPC: Conductor Ballador
+- Conductor's Melody
 Tool: Cogfly, right tower middle-left path, req Craftmetal
+Boss: Second Sentinel, above lower-right bench
+- Tool: Reserve Bind
 
 Terminus
 ----
@@ -474,10 +494,18 @@ Spool Fragment, under elevator
 Item: Silkeater, elevator shaft middle-right path, breakable wall
 map machine: Whiteward [70]
 Tool: Injector Band, up-left from mortician hallway
+hidden path above Mortician hallway platform up
+breakable wall left
+Item: Surgeon's Key, Clawline ring switch
+Boss: The Unravelled, bottom-left, req Surgeon's Key
+- Silk Heart
+breakable wall left, after dropdown from arena
+Psalm Cylinder, room left of breakable wall
 
 Whispering Vaults
 ----
 NPC: Vaultkeeper Cardinius
+- Vaultkeeper's Melody, req Sacred Cylinder
 Psalm Cylinder, "sacred song", right of Vaultkeeper Cardinius
 Flea, reward after moving box from lower to upper right
 Memory Locket, hidden path up from moving box, up
@@ -509,6 +537,9 @@ Spool Fragment, bottom-right hallway from the left, by Ventrica
 Flea: from Wisp Thicket, past spike block gauntlet
 breakable shortcut, right from Flea
 Spool Fragment, right side drop down to lava, breakable wall left
+Memory Locket, hidden path above top bench, also from Whiteward
+Tool: Delver's Drill, lower-left tower, bottom-right path
+breakable wall right of Delver's Drill
 
 MOUNT FAY
 ====
@@ -555,6 +586,13 @@ breakable wall, lower tower middle-left room, jump up right, req Faydown Cloak
 NPC: Second Sentinel
 Mask Shard, left through combat room, up in tunnels
 req Cogheart
+Puzzle, top
+    col	|   1	2	3	4
+row 1   |   1   3   3   3
+row 2   |   2   0   3   3
+row 3   |   0   1   1   1
+row 4   |   1   1   0   2
+- Architect's Melody
 
 Putrified Ducts
 ----

@@ -1,10 +1,3 @@
-Crests
-----
-Crest of the Hunter
-Crest of the Reaper
-Crest of the Wanderer
-Crest of the Beast
-
 Skills
 ----
 Swift Step
@@ -12,12 +5,21 @@ Cling Grip
 Clawline
 Needolin
 
+Crests
+----
+Crest of the Hunter
+Crest of the Reaper
+Crest of the Wanderer
+Crest of the Beast
+Crest of the Architect
+
 Silk Skills
 ----
 Silkspear
 Thread Storm
 Cross Stitch
 Sharpdart
+Rune Rage
 
 Tools Red
 ----
@@ -27,8 +29,11 @@ Sting Shard
 Tacks
 Longpin
 Curveclaw
+Throwing Ring
 Pimpillo
 Silkshot
+Delver's Drill
+Cogwork Wheel
 Cogfly
 Flintslate
 Snare Setter
@@ -43,8 +48,9 @@ Warding Bell
 Pollip Pouch
 Fractured Mask
 Weavelight
-Spool Extender
 Injector Band
+Spool Extender
+Reserve Bind
 Claw Mirror
 Memory Crystal
 Wreath of Purity
@@ -61,9 +67,11 @@ Weighted Belt
 Barbed Bracelet
 Dead Bug's Purse
 Magnetite Dice
+Scuttlebrac
 Ascendant's Grip
 Spider Strings
 Silkspeed Anklets
+Thief's Mark
 
 Materium
 ----
@@ -94,6 +102,7 @@ Vintage Nectar
 Pickled Muckmaggot
 Crustnut
 Choir Cloak
+Broodmother's Eye
 Seared Organ
 Shredded Organ
 Skewered Organ
@@ -103,6 +112,7 @@ Relics
 Bone Scroll: Faded parchment containing the last words of a lost pilgrim
 Bone Scroll: Crumpled parchment containing the prayer of a Burning Bug
 Weaver Effigy: Carving of Camora, Weaver of healing
+Weaver Effigy: Carving of Atla, Weaver of time
 Choral Commandment: Decree of the Citadel, dirty and worn
 Choral Commandment: Surgeon's orders
 Choral Commandment: Last edict of the Conductors
@@ -112,7 +122,9 @@ Rune Harp: Plea of a Weaver from the furthest edge of Pharloom
 Cylinders
 ----
 Psalm Cylinder: Voices of the Choir
-Psalm Cylinder: Guide track for the Choir
+Psalm Cylinder: Last Surgery of Conductor Mizello
+Psalm Cylinder: Guide track for the Choir, with a theme of ascendence
+Psalm Cylinder: Guide track for the Choir, with a theme of salvation
 Psalm Cylinder: Sermon of Service
 Sacred Cylinder: Sacred melody of the Vaultkeepers
 
@@ -140,6 +152,7 @@ Hoker
 Flintbeetle
 Rhinogrund
 Gromling
+Grom
 Bell Beast
 Pilgrim Groveller
 Pilgrim Pouncer
@@ -183,6 +196,7 @@ Thread Raker
 Moorwing
 Wisp
 Burning Bug
+Father of Flame
 Craw
 Tallcraw
 Squatcraw
@@ -204,7 +218,7 @@ Stilkin
 Stilkin Trapper
 Groal the Great
 Barnak
-Duct Sucker
+Ductsucker
 Pond Skipper
 Pondcatcher
 Shellwood Gnat
@@ -253,9 +267,12 @@ Choir Clapper
 Clawmaiden
 Minister
 Maestro
+Second Sentinel
 Dreg Husk
+Dreg Wheel
 Surgeon
 Mortician
+The Unravelled
 Cogwork Underfly
 Cogwork Hauler
 Cogwork Crawler
@@ -265,20 +282,23 @@ Cogwork Choirbug
 Cogwork Cleanser
 Cogwork Defender
 Cogwork Dancers
-Lampbearers
+Lampbearer
 Scrollreader
 Vaultkeeper
 Trobbio
 Penitent
 Puny Penitent
+Freshfly
 Scabfly
 Guardfly
 Wardenfly
+Broodmother
 Driftlin
 Mnemonid
 Servitor Ignim
 Servitor Boran
 Huge Flea
 Widow
+First Sinner
 Phantom
 Lace
