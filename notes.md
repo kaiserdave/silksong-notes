@@ -98,6 +98,7 @@ Memory Locket, top-center above lore tablet, req Cling Grip
 breakable wall tunnels, lower-right, go up, req Cling Grip
 Boss: Skull Tyrant
 - Item: Crown Fragment
+Cling Grip path from The Marrow to Deep Docks
 
 HUNTER'S MARCH
 ====
@@ -144,6 +145,7 @@ Materium: Flintstone
 Boss: Forebrothers Signis & Gron, left across bridge and down
 bench, steam room with shortcuts
 Old diving bell, locked by an ornate clamp
+Mask Shard, path from The Marrow, req Cling Grip
 
 FAR FIELDS
 ====
@@ -610,6 +612,9 @@ row 3   |   0   1   1   1
 row 4   |   1   1   0   2
 - Architect's Melody
 Spool Fragment, tower bottom-right, bottom-right room
+Task: Pharloom's Crown
+Boss: Lace
+- Task: Pale Monarch
 
 Putrified Ducts
 ----
@@ -632,3 +637,8 @@ NPC: Kratt
 NPC: Vog
 NPC: Vog
 - Flea Findings
+
+THE CRADLE
+====
+Cradle Map machine [70]
+Boss: Grand Mother Silk
