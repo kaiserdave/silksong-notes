@@ -44,6 +44,7 @@ NPC: Eva, crest upgrades
 - Evolved Crest of the Hunter
 - Vesticrest Yellow
 - Vesticrest Blue
+- Evolved Crest of the Hunter
 wall climb right of elevator bottom
 Spool Fragment, hallway left
 Relic: Rune Harp "beneath Bone Bottom", climb elevator shaft, upper-right path
@@ -52,7 +53,7 @@ Mossberry, lower-right hall before boss, upper platform
 Boss: Moss Mothers
 - Tool: Weavelight
 Tool: Snare Setter, hall above elevator bottom, jump up, req Faydown Cloak
- 
+
 Mosshome
 ----
 Silk Skill: Silkspear
@@ -198,6 +199,8 @@ Boss: Savage Beastfly
 NPC: Garmond and Zaza, tower mid-right
 NPC: Kratt, walkway above Halfway Home, breakable wall right
 NPC: Yarnaby, bellhome upper-left
+- Task: Infested Operation
+  * Crest of the Witch
 Tool: Pimpillo, breakable ceiling above Yarnaby
 Boss: Moorwing, lower-left
 NPC: Fleamaster Mooshka
@@ -280,6 +283,7 @@ Item: Pollip Heart, hall between right bench and Skill room
 NPC: Greyroot, middle-lower room, left side
 - Task: Rite of the Pollip
   * Pollip Pouch
+- Taks: Right of Rebirth
 Bellway [40], upper-left
 bench [40], lower-left
 Flea: bottom of Pollencia tower
@@ -292,6 +296,13 @@ Item: Pollip Heart, bottom-right by Bellhart, req Cling Grip
 Item: Pollip Heart, Greyroot room, right side climb up
 Mask Shard, right of hallway below Skill Room
 Bell 5, lower-left to tower up
+
+Chapel of the Witch
+----
+starting location after Task: Rite of Rebirth
+Relic: Weaver Effigy "Carving of Keelal", breakable right from Chapel of the Witch
+breakable wall left from Chapel of the Witch to exit
+explody wall, tower bottom-right
 
 WORMWAYS
 ====
@@ -328,6 +339,7 @@ NPC: Grindle, top tower left, req Faydown Cloak
 - Psalm Cylinder [240] Guide track for the Choir, with a theme of salvation
 - Crafting Kit [700]
 - Rosary String [80] inf
+Squirm for Journal, behind breakable wall, above-right of Grindle
 Boss: Last Judge
 
 Grand Gate
@@ -344,6 +356,7 @@ NPC: Green Prince, in simple jail cell
 NPC: Crull and Benjin, upper-right of right room
 - Task: Roach Guts
   * Tool: Tacks
+- Item: Steel Spines, give [160] for Task: Infested Operation
 Flea: right tower, middle-right room
 NPC: Styx, right tower bottom-right path, gives Silkeaters
 Tool: Barbed Bracelet, left tower bottom-right, right then down
@@ -482,6 +495,7 @@ NPC: Conductor Ballador
 Tool: Cogfly, right tower middle-left path, req Craftmetal
 Boss: Second Sentinel, above lower-right bench
 - Tool: Reserve Bind
+Tool: Rosary Cannon, Rosary building, breakable wall lower-left
 
 Terminus
 ----
@@ -566,7 +580,8 @@ Simple Key, corpse on bench
 drop giant cone to open breakable floor
 down, breakable wall left
 Item: Crustnut, through breakable wall area
-Boss: Great Conchfly
+Boss: Great Conchfly, upper-left
+Tool: Conchcutter, Coral Tower
 
 Memorium
 ----
@@ -577,6 +592,7 @@ Memory Locket, 3rd floor left past thorns
 Spool Fragment, 4th floor left, down through thorny platform area
 Ventrica [80]
 Item: Materium, 4th floor right
+Tool: Voltvessels, breakable wall, upper-right
 Huge Flea, top
 
 Cogwork Core
@@ -593,6 +609,7 @@ row 2   |   2   0   3   3
 row 3   |   0   1   1   1
 row 4   |   1   1   0   2
 - Architect's Melody
+Spool Fragment, tower bottom-right, bottom-right room
 
 Putrified Ducts
 ----

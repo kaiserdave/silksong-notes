@@ -11,6 +11,7 @@ Crest of the Hunter
 Crest of the Reaper
 Crest of the Wanderer
 Crest of the Beast
+Crest of the Witch
 Crest of the Architect
 
 Silk Skills
@@ -31,10 +32,13 @@ Longpin
 Curveclaw
 Throwing Ring
 Pimpillo
+Conchcutter
 Silkshot
 Delver's Drill
 Cogwork Wheel
 Cogfly
+Rosary Cannon
+Voltvessels
 Flintslate
 Snare Setter
 Flea Brew
@@ -53,6 +57,7 @@ Spool Extender
 Reserve Bind
 Claw Mirror
 Memory Crystal
+Snitch Pick
 Wreath of Purity
 Longclaw
 Wispfire Lantern
@@ -67,7 +72,7 @@ Weighted Belt
 Barbed Bracelet
 Dead Bug's Purse
 Magnetite Dice
-Scuttlebrac
+Scuttlebrace
 Ascendant's Grip
 Spider Strings
 Silkspeed Anklets
@@ -101,6 +106,7 @@ Courier's Rasher
 Vintage Nectar
 Pickled Muckmaggot
 Crustnut
+Steel Spines
 Choir Cloak
 Broodmother's Eye
 Seared Organ
@@ -112,6 +118,7 @@ Relics
 Bone Scroll: Faded parchment containing the last words of a lost pilgrim
 Bone Scroll: Crumpled parchment containing the prayer of a Burning Bug
 Weaver Effigy: Carving of Camora, Weaver of healing
+Weaver Effigy: Carving of Keelal, Weaver of the path
 Weaver Effigy: Carving of Atla, Weaver of time
 Choral Commandment: Decree of the Citadel, dirty and worn
 Choral Commandment: Surgeon's orders
@@ -121,11 +128,11 @@ Rune Harp: Plea of a Weaver from the furthest edge of Pharloom
 
 Cylinders
 ----
-Psalm Cylinder: Voices of the Choir
+Psalm Cylinder: Voices of the Choir, raised in sacred song
 Psalm Cylinder: Last Surgery of Conductor Mizello
 Psalm Cylinder: Guide track for the Choir, with a theme of ascendence
 Psalm Cylinder: Guide track for the Choir, with a theme of salvation
-Psalm Cylinder: Sermon of Service
+Psalm Cylinder: Sermon of service
 Sacred Cylinder: Sacred melody of the Vaultkeepers
 
 Journal
@@ -196,7 +203,7 @@ Thread Raker
 Moorwing
 Wisp
 Burning Bug
-Father of Flame
+Father of the Flame
 Craw
 Tallcraw
 Squatcraw
@@ -235,6 +242,8 @@ Winged Furm
 Pharlid
 Pharlid Diver
 Shardillard
+Sandcarver
+Squirrm
 Judge
 Last Judge
 Coral Furm
@@ -265,11 +274,12 @@ Reed
 Grand Reed
 Choir Clapper
 Clawmaiden
+Memoria
 Minister
 Maestro
 Second Sentinel
 Dreg Husk
-Dreg Wheel
+Dregwheel
 Surgeon
 Mortician
 The Unravelled
@@ -281,7 +291,9 @@ Cogwork Spine
 Cogwork Choirbug
 Cogwork Cleanser
 Cogwork Defender
+Cogwork Clapper
 Cogwork Dancers
+Vaultborn
 Lampbearer
 Scrollreader
 Vaultkeeper
@@ -297,6 +309,7 @@ Driftlin
 Mnemonid
 Servitor Ignim
 Servitor Boran
+Winged Lifeseed
 Huge Flea
 Widow
 First Sinner
