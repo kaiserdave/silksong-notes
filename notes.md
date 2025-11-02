@@ -9,6 +9,12 @@ Boss: Moss Mother
 NPC: Chapel Maid, above Moss Mother arena on surface
 - Task: The Great Citadel
 NPC: Chapel Maid, in Moss Mother arena
+- Item: Maiden's Soul, req Task: Silk and Soul
+
+Ruined Chapel [Abyss]
+----
+NPC: Snail Shamans
+Task: The Dark Below
 
 Bone Bottom
 ----
@@ -136,6 +142,7 @@ NPC: Forge Daughter, vendor
 - Crafting Kit [180]
 - Shard Bundle [50] inf
 NPC: Ballow
+- Task [Abyss]: The Dark Below update
 Gate unlock with Simple Key
 Tool: Flintslate, upper-right tower, upper left path
 Clawline Ring door, right tower bottom-right
@@ -273,6 +280,7 @@ Bellway [40]
 NPC: Courier Tipp
 
 NPC: Bell Hermit, hidden path right from Bellway
+- Item: Hermit's Soul, req Task: Silk and Soul
 
 SHELLWOOD
 ====
@@ -312,12 +320,15 @@ Mask Shard, breakable wall past Craggler, down-right
 NPC: Alchemist Zylotol
 - Task: Alchemist's Assistant
   * Plasmium Phial
+- Task [Abyss]: Advanced Alchemy
+  * Plasmium Gland
 Memory Locket, lower-right of lower-left maze
 NPC: Shakra, upper-right
 - Wormways Map [70]
 Tool: Dead Bug's Purse, room above Shakra
 Silk Skill: Sharpdart, far left
 Flea: tower bottom-right breakable wall
+Boss: Plasmified Zango, brekable wall lower left
 
 BLASTED STEPS
 ====
@@ -331,6 +342,7 @@ bench [40]
 Bellway [60]
 Tool: Magnetite Dice, lower-left from Bellway
 Flea: left tower, top-left
+Craftmetal, up-right climb before Grand Gate, go down between pogo bells
 Boss: Great Conchflies, tower middle-left path
 NPC: Pinstress, far left floating house
 - Skill: Needle Strike
@@ -395,6 +407,8 @@ Bilehaven
 ----
 Groal the Great arena
 Item: Seeker's Soul
+breakable wall, upper Bilehaven under Flea, lower right by water
+bench, left breakable wall
 
 Weavenest Murglin
 ----
@@ -434,6 +448,7 @@ Choral Chambers
 map machine: Choral Chambers [40]
 Ventrica: Grand Bellway [80]
 Bellway [80]
+Abyss: Task: Beast in the Bells
 Memory Locket, path directly above Bellway
 Task: Pharloom's Crown
 Ventrica: Choral Chambers [80]
@@ -457,6 +472,8 @@ Songclave
 ----
 Bell 6
 NPC: Caretaker
+- Task: Silk and Soul
+- Task: Soul Snare, req finish Task: Silk and Soul
 Item: White Key, right of bell
 Ventrica: First Shrine [80]
 Wishwall
@@ -473,6 +490,7 @@ Wishwall
 - Task: Final Audience
   * Throwing Ring
 NPC: Sherma
+- Abyss: Task: Awaiting the End
 NPC: Jubilana, vendor
 - Tool: Ascendant's Grip [350]
 - Mask Shard [750]
@@ -486,6 +504,11 @@ NPC: Jubilana, vendor
 Flea: up using Clawline rings to top
 Psalm Cylinder: "service", left back toward Songclave
 
+Abyss: Bellway
+----
+Boss: Bell Eater
+- Skill: Beastling Call
+
 High Halls
 ----
 Spool Fragment, tower top, req Clawline, Faydown Cloak
@@ -498,6 +521,7 @@ Tool: Cogfly, right tower middle-left path, req Craftmetal
 Boss: Second Sentinel, above lower-right bench
 - Tool: Reserve Bind
 Tool: Rosary Cannon, Rosary building, breakable wall lower-left
+Relic [Abyss]: Rune Harp "Last words of the Weavers", left of The Forum
 
 Terminus
 ----
@@ -631,6 +655,7 @@ Craftmetal, far right in Fleatopia
 NPC: Fleamaster Mooshka
 - Toolpouch Expanded
 - Egg of Flealia
+- Ecstasy of the End [Abyss]
 NPC: Grishkin
 NPC: Varga
 NPC: Kratt
@@ -640,5 +665,7 @@ NPC: Vog
 
 THE CRADLE
 ====
-Cradle Map machine [70]
+breakable wall, down-left from entrance, lore
+Cradle Map machine [70], up-left from entrance
 Boss: Grand Mother Silk
+

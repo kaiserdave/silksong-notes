@@ -3,7 +3,7 @@ Skills
 Swift Step
 Cling Grip
 Clawline
-Needolin
+Needolin, Beastling Call
 
 Crests
 ----
@@ -51,7 +51,9 @@ Magma Bell
 Warding Bell
 Pollip Pouch
 Fractured Mask
+Multibinder
 Weavelight
+Sawtooth Circlet
 Injector Band
 Spool Extender
 Reserve Bind
@@ -102,6 +104,7 @@ Pollip Heart
 Roach Guts
 Courier's Swag
 Queen's Egg
+Liquid Lacquer
 Courier's Rasher
 Vintage Nectar
 Pickled Muckmaggot
@@ -112,6 +115,9 @@ Broodmother's Eye
 Seared Organ
 Shredded Organ
 Skewered Organ
+Hermit's Soul
+Maiden's Soul
+Seeker's Soul
 
 Relics
 ----
@@ -125,6 +131,7 @@ Choral Commandment: Surgeon's orders
 Choral Commandment: Last edict of the Conductors
 Rune Harp: Words of a Weaver from the nest beneath Bone Bottom
 Rune Harp: Plea of a Weaver from the furthest edge of Pharloom
+Rune Harp: Last words of the Weavers
 
 Cylinders
 ----
@@ -310,6 +317,11 @@ Mnemonid
 Servitor Ignim
 Servitor Boran
 Winged Lifeseed
+Plasmid
+Plasmidas
+Plasmified Zango
+Void Mass
+Bell Eater
 Huge Flea
 Widow
 First Sinner
