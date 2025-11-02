@@ -64,6 +64,7 @@ Wreath of Purity
 Longclaw
 Wispfire Lantern
 Egg of Flealia
+Pin Badge
 
 Tools Yellow
 ----
@@ -99,6 +100,7 @@ Horn Fragment
 Silver Bell
 Pale Oil
 Plasmium
+Plasmified Blood
 Ragpelt
 Pollip Heart
 Roach Guts
@@ -323,6 +325,7 @@ Plasmified Zango
 Void Mass
 Bell Eater
 Huge Flea
+Pinstress
 Widow
 First Sinner
 Phantom

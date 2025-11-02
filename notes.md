@@ -271,11 +271,13 @@ Wishwall
   * Horn Fragment
     - Mask Shard
 - Task: Trail's End
+- Task [Abyss]: Dark Hearts
 NPC: Relic Seeker Scrounge
 NPC: Pinmaster Plinney
 - Task: Pinmaster's Oil
   * Needle Sharpened [Pinmaster's Oil]
   * Needle Sharpened [Pinmaster's Oil + 450]
+  * Needle Sharpened [Pinmaster's Oil + 680]
 Bellway [40]
 NPC: Courier Tipp
 
@@ -346,6 +348,8 @@ Craftmetal, up-right climb before Grand Gate, go down between pogo bells
 Boss: Great Conchflies, tower middle-left path
 NPC: Pinstress, far left floating house
 - Skill: Needle Strike
+- Task: Fatal Resolve
+  * Pin Badge
 NPC: Grindle, top tower left, req Faydown Cloak
 - Thief's Mark [350]
 - Snitch Pick [740]
@@ -568,6 +572,7 @@ NPC: Twelfth Architect, above bench, req Clawline
 - Crafting Kit [450]
 - Architect's Key [110]
 - Shard Bundle [50]
+- Pristine Core, on corpse
 Ventrica: Underworks [80]
 Crest of the Architect, Chapel req Architect's Key
 Great Gate breaking elevator entrance
@@ -656,6 +661,7 @@ NPC: Fleamaster Mooshka
 - Toolpouch Expanded
 - Egg of Flealia
 - Ecstasy of the End [Abyss]
+  * Pale Oil
 NPC: Grishkin
 NPC: Varga
 NPC: Kratt
