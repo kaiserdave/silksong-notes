@@ -14,6 +14,7 @@ NPC: Chapel Maid, in Moss Mother arena
 Ruined Chapel [Abyss]
 ----
 NPC: Snail Shamans
+- Skill: Elegy of the Deep
 Task: The Dark Below
 
 Bone Bottom
@@ -152,6 +153,8 @@ Materium: Flintstone
 Boss: Forebrothers Signis & Gron, left across bridge and down
 bench, steam room with shortcuts
 Old diving bell, locked by an ornate clamp
+NPC: Ballow, above diving bell [Abyss]
+- Item: Diving Bell Key
 Mask Shard, path from The Marrow, req Cling Grip
 
 FAR FIELDS
@@ -168,10 +171,11 @@ Bellway [40]
 hidden path, right from Bellway
 path up, req Drifter's Cloak and Cling Grip
 Flea: after thorny gauntlet exit up, up-right
-NPC: Seamstres, bottom-right path to floating house
+NPC: Seamstress, bottom-right path to floating house
 - Task: Flexile Spines
   * Drifter's Cloak
 Mask Shard, up-left path from Seamstress, explody floor
+Relic: Bone Scroll "Singed parchment", right of Seamstress, updraft to explody wall left
 Boss: Fourth Chorus, path back to the rest of Far Fields
 Mask Shard, lower-right dungeon, req Clawline
 
@@ -194,7 +198,7 @@ GREYMOOR
 ====
 NPC: Shakra, right of entrance
 - Greymoor Map [70]
-Item: Bone Scroll "Faded parchment", left of entrance, down hidden path
+Relic: Bone Scroll "Faded parchment", left of entrance, down hidden path
 Silk Skill: Thread Storm, top-right of Greymoor
 Tool: Threefold Pin
 Flea: lower-right of Greymoor
@@ -216,6 +220,19 @@ NPC: Fleamaster Mooshka
 - Spool Fragment, reward for moving to the Blasted Steps
 Flea: left tower peak
 Spool Fragment, top right of Far Fields entrance, req Faydown Cloak
+Boss: Court of Craws, req Craw Summons
+- Craw Memento
+- Crawbell
+VERDANIA
+====
+NPC: Grey Prince, newly opened tunnel lower-right
+hidden path right
+Verdania Map, far right
+
+Lost Verdania, Elegy of the Deep
+----
+Boss: Clover Dancers
+- Conjoined Heart
 
 Halfway Home
 ----
@@ -272,6 +289,8 @@ Wishwall
     - Mask Shard
 - Task: Trail's End
 - Task [Abyss]: Dark Hearts
+- Task [Abyss]: Hero's Call
+  * Item: Hero's Memento
 NPC: Relic Seeker Scrounge
 NPC: Pinmaster Plinney
 - Task: Pinmaster's Oil
@@ -280,6 +299,7 @@ NPC: Pinmaster Plinney
   * Needle Sharpened [Pinmaster's Oil + 680]
 Bellway [40]
 NPC: Courier Tipp
+Item: Craw Summons, by bench
 
 NPC: Bell Hermit, hidden path right from Bellway
 - Item: Hermit's Soul, req Task: Silk and Soul
@@ -493,6 +513,8 @@ Wishwall
   * Heavy Rosary Necklace
 - Task: Final Audience
   * Throwing Ring
+- Task: Pain, Anguish, and Misery
+  * Dark Mirror
 NPC: Sherma
 - Abyss: Task: Awaiting the End
 NPC: Jubilana, vendor
@@ -675,3 +697,15 @@ breakable wall, down-left from entrance, lore
 Cradle Map machine [70], up-left from entrance
 Boss: Grand Mother Silk
 
+THE ABYSS
+====
+Item: Arcane Egg
+
+Weavnest Absolom
+----
+Journal: Void Tendrils
+Skill: Silk Soar
+Item: Farsight
+
+Coral Tower, Elegy of the Deep
+----

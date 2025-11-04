@@ -3,7 +3,8 @@ Skills
 Swift Step
 Cling Grip
 Clawline
-Needolin, Beastling Call
+Needolin, Beastling Call, Elegy of the Deep
+Silk Soar
 
 Crests
 ----
@@ -57,7 +58,7 @@ Sawtooth Circlet
 Injector Band
 Spool Extender
 Reserve Bind
-Claw Mirror
+Claw Mirror (Claw Mirrors)
 Memory Crystal
 Snitch Pick
 Wreath of Purity
@@ -123,6 +124,7 @@ Seeker's Soul
 
 Relics
 ----
+Bone Scroll: Singed parchment containing a pilgrim's scrawl
 Bone Scroll: Faded parchment containing the last words of a lost pilgrim
 Bone Scroll: Crumpled parchment containing the prayer of a Burning Bug
 Weaver Effigy: Carving of Camora, Weaver of healing
@@ -143,6 +145,11 @@ Psalm Cylinder: Guide track for the Choir, with a theme of ascendence
 Psalm Cylinder: Guide track for the Choir, with a theme of salvation
 Psalm Cylinder: Sermon of service
 Sacred Cylinder: Sacred melody of the Vaultkeepers
+
+Mementos
+----
+Hero's Memento: Heirloom of a village lost to Pharloom's Haunting
+Craw Memento: Iron emblem of the Court of Craws, absolving the bearer of all crimes past and future
 
 Journal
 ----
@@ -216,6 +223,10 @@ Father of the Flame
 Craw
 Tallcraw
 Squatcraw
+Craw Juror
+Tallcraw Juror
+Squatcraw Juror
+Crawfather
 Muckmaggot
 Slubberlug
 Muckroach
@@ -261,7 +272,15 @@ Driznarga
 Pokenabbin
 Conchfly
 Great Conchfly
+Crustcrawler
 Crustcrag
+Yuma
+Yumama
+Karaka
+Kakri
+Yago
+Karak Gor
+Alita
 Drapefly
 Drapelord
 Drapemite
@@ -307,6 +326,7 @@ Lampbearer
 Scrollreader
 Vaultkeeper
 Trobbio
+Tormented Trobbio
 Penitent
 Puny Penitent
 Freshfly
@@ -322,9 +342,26 @@ Winged Lifeseed
 Plasmid
 Plasmidas
 Plasmified Zango
+Leaf Glider
+Leaf Roller
+Pendra
+Pendragor
+Nuphar
+Cloverstag
+Palestag
+Kindanir
+Verdanir
+Escalion
+Clover Dancers
+Shadow Creeper
+Shadow Charger
+Gloomsac
+Gargant Gloom
+Void Tendrils
 Void Mass
 Bell Eater
 Huge Flea
+Lost Garmond
 Pinstress
 Widow
 First Sinner
