@@ -16,6 +16,7 @@ Ruined Chapel [Abyss]
 NPC: Snail Shamans
 - Skill: Elegy of the Deep
 Task: The Dark Below
+Crest of the Shaman, up-right, req Silk Soar
 
 Bone Bottom
 ----
@@ -426,6 +427,7 @@ drop down from Songclave
 breakable wall left
 Item: Twisted Bud, up and through more breakable walls
 shortcut back to main area, continue right, then down and left
+Tool: Quick Sling, breakable ceiling left of first Slubberlug room
 
 Bilehaven
 ----
@@ -709,3 +711,5 @@ Item: Farsight
 
 Coral Tower, Elegy of the Deep
 ----
+Boss: Crust King Khann
+- Encrusted Heart

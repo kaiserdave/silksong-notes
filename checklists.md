@@ -14,6 +14,7 @@ Crest of the Wanderer
 Crest of the Beast
 Crest of the Witch
 Crest of the Architect
+Crest of the Shaman
 
 Silk Skills
 ----
@@ -61,6 +62,7 @@ Reserve Bind
 Claw Mirror (Claw Mirrors)
 Memory Crystal
 Snitch Pick
+Quick Sling
 Wreath of Purity
 Longclaw
 Wispfire Lantern
@@ -281,6 +283,8 @@ Kakri
 Yago
 Karak Gor
 Alita
+Corrcrust Karaka
+Crust King Khann
 Drapefly
 Drapelord
 Drapemite
