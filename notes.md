@@ -53,6 +53,7 @@ NPC: Eva, crest upgrades
 - Vesticrest Yellow
 - Vesticrest Blue
 - Evolved Crest of the Hunter
+- Skill: Sylphsong
 wall climb right of elevator bottom
 Spool Fragment, hallway left
 Relic: Rune Harp "beneath Bone Bottom", climb elevator shaft, upper-right path
@@ -167,6 +168,8 @@ NPC: Shakra
 Tool: Warding Bell, tower bottom-left, hidden path up
 breakable wall left in Warding Bell room
 Craftmetal: breakable wall to lower left chest
+target practice room, above Bellway
+- Tool: Curvesickle, hit all targets with one Curveclaw throw, give it to ant, return
 bench [30] by Bellway
 Bellway [40]
 hidden path, right from Bellway
@@ -179,6 +182,12 @@ Mask Shard, up-left path from Seamstress, explody floor
 Relic: Bone Scroll "Singed parchment", right of Seamstress, updraft to explody wall left
 Boss: Fourth Chorus, path back to the rest of Far Fields
 Mask Shard, lower-right dungeon, req Clawline
+NPC: Gilly 2, right part, up hidden path
+NPC: Sprintmaster Swift, upper Far Fields, far right
+- Task: Fastest in Pharloom
+  * Mask Shard
+Boss: Skarrsinger Karmelita
+- Item: Hunter's Heart
 
 Pilgrim's Rest
 ----
@@ -292,6 +301,7 @@ Wishwall
 - Task [Abyss]: Dark Hearts
 - Task [Abyss]: Hero's Call
   * Item: Hero's Memento
+- Task: The Hidden Hunter
 NPC: Relic Seeker Scrounge
 NPC: Pinmaster Plinney
 - Task: Pinmaster's Oil
@@ -585,6 +595,7 @@ Sacred Cylinder, bottom hall left of bench from Underworks right
 
 UNDERWORKS
 ====
+Relic: Bone Scroll "Filthy rag", left tower, left room, left breakable wall
 Flea: tower bottom-left, left past Cogwork Haulers
 Craftmetal: left through second lowest hallway
 Skill: Clawline, left through third lowest hallway

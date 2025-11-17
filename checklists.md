@@ -5,6 +5,7 @@ Cling Grip
 Clawline
 Needolin, Beastling Call, Elegy of the Deep
 Silk Soar
+Sylphsong
 
 Crests
 ----
@@ -31,7 +32,7 @@ Threefold Pin
 Sting Shard
 Tacks
 Longpin
-Curveclaw
+Curveclaw/Curvesickle
 Throwing Ring
 Pimpillo
 Conchcutter
@@ -128,6 +129,7 @@ Relics
 ----
 Bone Scroll: Singed parchment containing a pilgrim's scrawl
 Bone Scroll: Faded parchment containing the last words of a lost pilgrim
+Bone Scroll: Filthy rag, marked with the scrawl of an Underworker
 Bone Scroll: Crumpled parchment containing the prayer of a Burning Bug
 Weaver Effigy: Carving of Camora, Weaver of healing
 Weaver Effigy: Carving of Keelal, Weaver of the path
@@ -170,6 +172,7 @@ Savage Beastfly
 Caranid
 Vicious Caranid
 Hardbone Hopper
+Hardbone Elder
 Tarmite
 Mawling
 Marrowmaw
@@ -212,6 +215,8 @@ Skarr Scout
 Skarr Stalker
 Spear Skarr
 Skarrgard
+Last Claw
+Skarrsinger Karmelita
 Mite
 Fluttermite
 Mitemother
