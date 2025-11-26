@@ -24,6 +24,7 @@ Thread Storm
 Cross Stitch
 Sharpdart
 Rune Rage
+Pale Nails
 
 Tools Red
 ----
@@ -117,6 +118,7 @@ Pickled Muckmaggot
 Crustnut
 Steel Spines
 Choir Cloak
+Magnetite
 Broodmother's Eye
 Seared Organ
 Shredded Organ
@@ -153,6 +155,7 @@ Sacred Cylinder: Sacred melody of the Vaultkeepers
 Mementos
 ----
 Hero's Memento: Heirloom of a village lost to Pharloom's Haunting
+Surface Memento: Worn ornament of the Nameless Town high above Pharloom
 Craw Memento: Iron emblem of the Court of Craws, absolving the bearer of all crimes past and future
 
 Journal
@@ -215,6 +218,7 @@ Skarr Scout
 Skarr Stalker
 Spear Skarr
 Skarrgard
+Gurr the Outcast
 Last Claw
 Skarrsinger Karmelita
 Mite
@@ -345,6 +349,7 @@ Wardenfly
 Broodmother
 Driftlin
 Mnemonid
+Mnemonord
 Servitor Ignim
 Servitor Boran
 Winged Lifeseed
@@ -368,6 +373,9 @@ Gloomsac
 Gargant Gloom
 Void Tendrils
 Void Mass
+Garpid
+Imoba
+Skrill
 Bell Eater
 Huge Flea
 Lost Garmond

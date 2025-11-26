@@ -188,6 +188,8 @@ NPC: Sprintmaster Swift, upper Far Fields, far right
   * Mask Shard
 Boss: Skarrsinger Karmelita
 - Item: Hunter's Heart
+Boss: Gurr the Outcast, tracked to the mid-right in newly opened area
+- Item: Grass Doll
 
 Pilgrim's Rest
 ----
@@ -231,7 +233,7 @@ NPC: Fleamaster Mooshka
 Flea: left tower peak
 Spool Fragment, top right of Far Fields entrance, req Faydown Cloak
 Boss: Court of Craws, req Craw Summons
-- Craw Memento
+- Item: Craw Memento
 - Crawbell
 VERDANIA
 ====
@@ -302,6 +304,7 @@ Wishwall
 - Task [Abyss]: Hero's Call
   * Item: Hero's Memento
 - Task: The Hidden Hunter
+  * Mask Shard
 NPC: Relic Seeker Scrounge
 NPC: Pinmaster Plinney
 - Task: Pinmaster's Oil
@@ -311,6 +314,7 @@ NPC: Pinmaster Plinney
 Bellway [40]
 NPC: Courier Tipp
 Item: Craw Summons, by bench
+Memory Locket, above Bellhart, req Silk Soar
 
 NPC: Bell Hermit, hidden path right from Bellway
 - Item: Hermit's Soul, req Task: Silk and Soul
@@ -634,6 +638,8 @@ Skill: Faydown Cloak, summit, req Clawline, Needolin
 NPC: Mask Maker, upper-left
 Flea: middle hallway, up hidden path
 Mask Shard, lower-left, req Faydown Cloak
+hidden path, right of Flea, rock at water level, req Silk Soar
+Mask Shard, Brightvein top
 
 SANDS OF KARAK
 ====
@@ -692,6 +698,9 @@ Tool: Wreath of Purity, right to a corpse
 Barnak lifts up, just right of entrance to room below
 NPC: Vog, left after Barnak lift section
 Craftmetal, far right in Fleatopia
+
+Fleatopia
+----
 NPC: Fleamaster Mooshka
 - Toolpouch Expanded
 - Egg of Flealia
@@ -703,12 +712,18 @@ NPC: Kratt
 NPC: Vog
 NPC: Vog
 - Flea Findings
+Task: Passing of the Age, far right, up hidden path, req Silk Soar
 
 THE CRADLE
 ====
 breakable wall, down-left from entrance, lore
 Cradle Map machine [70], up-left from entrance
 Boss: Grand Mother Silk
+Silk Skill: Pale Nails, top in Lace arena
+
+Nameless Town
+----
+Item: Surface Memento
 
 THE ABYSS
 ====
