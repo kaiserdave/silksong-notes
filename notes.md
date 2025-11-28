@@ -3,8 +3,8 @@ BONE BOTTOM
 
 Moss Grotto
 ----
-Mossberry, left of drop, up at first split up-down
-Mossberry, right of drop, above enemy, pogo to get
+Item: Mossberry, left of drop, up at first split up-down
+Item: Mossberry, right of drop, above enemy, pogo to get
 Boss: Moss Mother
 NPC: Chapel Maid, above Moss Mother arena on surface
 - Task: The Great Citadel
@@ -42,7 +42,7 @@ Relic: Weaver Effigy "Carving of Camora", upper-left from Bone Bottom
 Relic: Choral Commandment "dirty and worn", upper-right tower ledge
 NPC: Horned Pilgrim
 
-Mossberry, left of bone gate, held by an Anklid flying above the Chapel
+Item: Mossberry, left of bone gate, held by an Anklid flying above the Chapel
 Crest of the Wanderer, Chapel
 
 WEAVENEST ATLA
@@ -58,7 +58,7 @@ wall climb right of elevator bottom
 Spool Fragment, hallway left
 Relic: Rune Harp "beneath Bone Bottom", climb elevator shaft, upper-right path
 breakable wall, lower-right in Rune Harp tower
-Mossberry, lower-right hall before boss, upper platform
+Item: Mossberry, lower-right hall before boss, upper platform
 Boss: Moss Mothers
 - Tool: Weavelight
 Tool: Snare Setter, hall above elevator bottom, jump up, req Faydown Cloak
@@ -68,12 +68,15 @@ Mosshome
 Silk Skill: Silkspear
 NPC: Moss Druid
 - Task: Berry Picking
-Mossberry (above elevator) held by Aknid
+Item: Mossberry (above elevator) held by Aknid
 breakable wall, right of Bone Bottom elevator by trapped rosaries
 Spool Fragment, left of breakable wall
+Item: Mossberry, hidden path right of Silkspear, path under bench
 NPC: Moss Druid, past silk wall
 - Task: Berry Picking
   * Tool: Druid's Eye, reward for Task Berry Picking
+- Tool: Druid's Eyes, upgrade for collecting all Mossberies
+
 
 THE MARROW
 ====
@@ -583,6 +586,8 @@ Boss: The Unravelled, bottom-left, req Surgeon's Key
 - Silk Heart
 breakable wall left, after dropdown from arena
 Psalm Cylinder, room left of breakable wall
+hidden path, up in middle-right tower req Silk Soar
+Relic: Choral Commandment "Tattered degree of the Citadel", right through breakable wall
 
 Whispering Vaults
 ----
@@ -659,7 +664,7 @@ Memorium
 ----
 Memorium Map [70]
 Item: Cogheart Piece, 2nd floor right, cogwork memory puzzle
-Mossberry, lowest floor right of bench
+Item: Mossberry, lowest floor right of bench
 Memory Locket, 3rd floor left past thorns
 Spool Fragment, 4th floor left, down through thorny platform area
 Ventrica [80]

@@ -50,7 +50,7 @@ Plasmium Phial
 
 Tools Blue
 ----
-Druid's Eye
+Druid's Eye / Druid's Eyes
 Magma Bell
 Warding Bell
 Pollip Pouch
@@ -139,6 +139,7 @@ Weaver Effigy: Carving of Atla, Weaver of time
 Choral Commandment: Decree of the Citadel, dirty and worn
 Choral Commandment: Surgeon's orders
 Choral Commandment: Last edict of the Conductors
+Choral Commandment: Tattered degree of the Citadel
 Rune Harp: Words of a Weaver from the nest beneath Bone Bottom
 Rune Harp: Plea of a Weaver from the furthest edge of Pharloom
 Rune Harp: Last words of the Weavers
@@ -268,6 +269,8 @@ Sister Splinter
 Phacia
 Pollenica
 Gahlia
+Shrine Guardian Seth
+Nyleth
 Furm
 Winged Furm
 Pharlid
