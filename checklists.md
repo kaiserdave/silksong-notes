@@ -64,6 +64,7 @@ Reserve Bind
 Claw Mirror (Claw Mirrors)
 Memory Crystal
 Snitch Pick
+Volt Filamnent
 Quick Sling
 Wreath of Purity
 Longclaw
@@ -123,9 +124,14 @@ Broodmother's Eye
 Seared Organ
 Shredded Organ
 Skewered Organ
+Voltridian
 Hermit's Soul
 Maiden's Soul
 Seeker's Soul
+Pollen Heart
+Hunter's Heart
+Encrusted Heart
+Conjoined Heart
 
 Relics
 ----
@@ -155,9 +161,13 @@ Sacred Cylinder: Sacred melody of the Vaultkeepers
 
 Mementos
 ----
-Hero's Memento: Heirloom of a village lost to Pharloom's Haunting
-Surface Memento: Worn ornament of the Nameless Town high above Pharloom
-Craw Memento: Iron emblem of the Court of Craws, absolving the bearer of all crimes past and future
+Sprintmaster Memento: Gilded trophy awarded by Sprintmaster Swift to the fastest bug in Pharloom.
+Hero's Memento: Heirloom of a village lost to Pharloom's Haunting.
+Hunter's Memento: Seal symbol given in recognition of a true Hunter, stamped in sticky goo.
+Grey Memento: Engraved cruststone, worn by sand and blanched by time.
+Surface Memento: Worn ornament of the Nameless Town high above Pharloom.
+Craw Memento: Iron emblem of the Court of Craws, absolving the bearer of all crimes past and future.
+Conjoined Heart: Enlivened heart of the Green Prince. Its beat is sharp and clear.
 
 Journal
 ----
@@ -297,6 +307,8 @@ Karak Gor
 Alita
 Corrcrust Karaka
 Crust King Khann
+Watcher at the Edge
+Voltwyrm
 Drapefly
 Drapelord
 Drapemite
@@ -376,6 +388,7 @@ Gloomsac
 Gargant Gloom
 Void Tendrils
 Void Mass
+Wingmould
 Garpid
 Imoba
 Skrill
@@ -388,3 +401,4 @@ First Sinner
 Phantom
 Lace
 Grand Mother Silk
+Lost Lace

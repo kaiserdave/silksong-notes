@@ -1,4 +1,4 @@
-BONE BOTTOM
+Bone Bottom
 ====
 
 Moss Grotto
@@ -11,12 +11,13 @@ NPC: Chapel Maid, above Moss Mother arena on surface
 NPC: Chapel Maid, in Moss Mother arena
 - Item: Maiden's Soul, req Task: Silk and Soul
 
-Ruined Chapel [Abyss]
+Ruined Chapel [Act 3]
 ----
 NPC: Snail Shamans
 - Skill: Elegy of the Deep
 Task: The Dark Below
 Crest of the Shaman, up-right, req Silk Soar
+Task: Last Dive, after Red Memory
 
 Bone Bottom
 ----
@@ -45,7 +46,7 @@ NPC: Horned Pilgrim
 Item: Mossberry, left of bone gate, held by an Anklid flying above the Chapel
 Crest of the Wanderer, Chapel
 
-WEAVENEST ATLA
+Weavenest Atla
 ====
 breakable wall, elevator bottom right
 NPC: Eva, crest upgrades
@@ -58,6 +59,7 @@ wall climb right of elevator bottom
 Spool Fragment, hallway left
 Relic: Rune Harp "beneath Bone Bottom", climb elevator shaft, upper-right path
 breakable wall, lower-right in Rune Harp tower
+Mask Shard, lava platforming challenge
 Item: Mossberry, lower-right hall before boss, upper platform
 Boss: Moss Mothers
 - Tool: Weavelight
@@ -78,7 +80,7 @@ NPC: Moss Druid, past silk wall
 - Tool: Druid's Eyes, upgrade for collecting all Mossberies
 
 
-THE MARROW
+The Marrow
 ====
 breakable wall, above arena gate on right, rosaries
 bench [30], right of gate arena
@@ -112,7 +114,7 @@ Boss: Skull Tyrant
 - Item: Crown Fragment
 Cling Grip path from The Marrow to Deep Docks
 
-HUNTER'S MARCH
+Hunter's March
 ====
 Flea: climb left from The Marrow entrance
 NPC: Mottled Skarr, vendor
@@ -127,7 +129,7 @@ Memory Locket, on a caged corpse right of Shakra
 Chapel of the Beast, above Shakra, req Drifter's Cloak
 - Crest of the Beast
 
-DEEP DOCKS
+Deep Docks
 ====
 bench [30]
 NPC: Shakra
@@ -148,7 +150,7 @@ NPC: Forge Daughter, vendor
 - Crafting Kit [180]
 - Shard Bundle [50] inf
 NPC: Ballow
-- Task [Abyss]: The Dark Below update
+- Task [Act 3]: The Dark Below update
 Gate unlock with Simple Key
 Tool: Flintslate, upper-right tower, upper left path
 Clawline Ring door, right tower bottom-right
@@ -158,11 +160,11 @@ Materium: Flintstone
 Boss: Forebrothers Signis & Gron, left across bridge and down
 bench, steam room with shortcuts
 Old diving bell, locked by an ornate clamp
-NPC: Ballow, above diving bell [Abyss]
+NPC: Ballow, above diving bell [Act 3]
 - Item: Diving Bell Key
 Mask Shard, path from The Marrow, req Cling Grip
 
-FAR FIELDS
+Far Fields
 ====
 bench [30]
 Flea: hallway right past trap
@@ -184,11 +186,12 @@ NPC: Seamstress, bottom-right path to floating house
 Mask Shard, up-left path from Seamstress, explody floor
 Relic: Bone Scroll "Singed parchment", right of Seamstress, updraft to explody wall left
 Boss: Fourth Chorus, path back to the rest of Far Fields
-Mask Shard, lower-right dungeon, req Clawline
+Mask Shard, lower-right dungeon Skull Cave, req Clawline
 NPC: Gilly 2, right part, up hidden path
 NPC: Sprintmaster Swift, upper Far Fields, far right
 - Task: Fastest in Pharloom
   * Mask Shard
+- Sprintmaster Memento
 Boss: Skarrsinger Karmelita
 - Item: Hunter's Heart
 Boss: Gurr the Outcast, tracked to the mid-right in newly opened area
@@ -209,7 +212,7 @@ Weavenest Cindril
 Tool: Silkspeed Anklets, run top speed across floor switches
 Relic: Rune Harp "furthest edge of Pharloom", req Silkspeed Anklets, Flea Brew
 
-GREYMOOR
+Greymoor
 ====
 NPC: Shakra, right of entrance
 - Greymoor Map [70]
@@ -218,6 +221,7 @@ Silk Skill: Thread Storm, top-right of Greymoor
 Tool: Threefold Pin
 Flea: lower-right of Greymoor
 Bell 3, above-right of Far Field entrance
+NPC: Seth 2, down-right from right bench, Act 3
 breakable wall, left of Bellway to mite maze
 Bellway [60], left from Halfway Home
 Memory Locket, mite maze upper-right
@@ -238,7 +242,8 @@ Spool Fragment, top right of Far Fields entrance, req Faydown Cloak
 Boss: Court of Craws, req Craw Summons
 - Item: Craw Memento
 - Crawbell
-VERDANIA
+
+Verdania
 ====
 NPC: Grey Prince, newly opened tunnel lower-right
 hidden path right
@@ -259,6 +264,7 @@ NPC: Nuu
 - Task: Bugs of Pharloom
   * Tool Pouch Expanded
 - Hunter's Journal
+  * Hunter's Emblem
 NPC: Exhausted Pilgrim
 
 Wisp Thicket
@@ -272,7 +278,7 @@ up left to Underworks
 Boss: Father of the Flame, far left from bench
 - Tool: Wispfire Lantern
 
-BELLHART
+Bellhart
 ====
 Task: The Threadspun Town
 Flea: upper-left from Shellwood upper entrance
@@ -303,8 +309,9 @@ Wishwall
   * Horn Fragment
     - Mask Shard
 - Task: Trail's End
-- Task [Abyss]: Dark Hearts
-- Task [Abyss]: Hero's Call
+- Task [Act 3]: Dark Hearts
+  * Mask Shard
+- Task [Act 3]: Hero's Call
   * Item: Hero's Memento
 - Task: The Hidden Hunter
   * Mask Shard
@@ -322,7 +329,7 @@ Memory Locket, above Bellhart, req Silk Soar
 NPC: Bell Hermit, hidden path right from Bellway
 - Item: Hermit's Soul, req Task: Silk and Soul
 
-SHELLWOOD
+Shellwood
 ====
 Tool: Longpin, breakable Wood Wasp nest, lower-right first tower
 bench [40], up after the first gauntlet room
@@ -330,6 +337,7 @@ NPC: Shakra
 - Bellhart Map [40]
 - Shellwood Map [70]
 Item: Pollip Heart, hall between right bench and Skill room
+NPC: Seth 3, Pollip Heart room, Act 3
 NPC: Greyroot, middle-lower room, left side
 - Task: Rite of the Pollip
   * Pollip Pouch
@@ -344,7 +352,7 @@ Item: Pollip Heart, lower-left in Skill room
 Item: Pollip Heart, breakable wall left of shortcut hallway
 Item: Pollip Heart, bottom-right by Bellhart, req Cling Grip
 Item: Pollip Heart, Greyroot room, right side climb up
-Mask Shard, right of hallway below Skill Room
+Mask Shard, platform challenge in hallway below Skill Room
 Bell 5, lower-left to tower up
 
 Chapel of the Witch
@@ -354,13 +362,13 @@ Relic: Weaver Effigy "Carving of Keelal", breakable right from Chapel of the Wit
 breakable wall left from Chapel of the Witch to exit
 explody wall, tower bottom-right
 
-WORMWAYS
+Wormways
 ====
 Mask Shard, breakable wall past Craggler, down-right
 NPC: Alchemist Zylotol
 - Task: Alchemist's Assistant
   * Plasmium Phial
-- Task [Abyss]: Advanced Alchemy
+- Task [Act 3]: Advanced Alchemy
   * Plasmium Gland
 Memory Locket, lower-right of lower-left maze
 NPC: Shakra, upper-right
@@ -370,7 +378,7 @@ Silk Skill: Sharpdart, far left
 Flea: tower bottom-right breakable wall
 Boss: Plasmified Zango, brekable wall lower left
 
-BLASTED STEPS
+Blasted Steps
 ====
 bench [60]
 Memory Locket, down-left before the upper-right exit
@@ -389,6 +397,7 @@ NPC: Pinstress, far left floating house
 - Task: Fatal Resolve
   * Pin Badge
 NPC: Grindle, top tower left, req Faydown Cloak
+- Mask Shard [320]
 - Thief's Mark [350]
 - Snitch Pick [740]
 - Spool Fragment [680]
@@ -397,13 +406,18 @@ NPC: Grindle, top tower left, req Faydown Cloak
 - Rosary String [80] inf
 Squirm for Journal, behind breakable wall, above-right of Grindle
 Boss: Last Judge
+hidden path above central tower to Voltnest, req Silk Soar
+Boss: Voltvyrm, left after dropping down
+- Tool: Volt Filamnent
+hidden path up, bottom level, far left from Shellwood
+
 
 Grand Gate
 ----
 Grand Gate Map machine [40]
 Spool Fragment, top-left of scale room
 
-SINNER'S ROAD
+Sinner's Road
 ====
 NPC: Shakra
 - Sinner's Road Map [90]
@@ -419,7 +433,7 @@ Tool: Barbed Bracelet, left tower bottom-right, right then down
 Boss: Disgraced Chef Lugoli, behind one-way door, req Faydown Cloak
 - Pickled Muckmaggot
 
-BILEWATER
+Bilewater
 ====
 breakable wall, tower middle-left
 Flea: behind breakable wall with Snitchflies
@@ -464,7 +478,7 @@ Flea: up and out, up and left
 Boss: Phantom
 - Silk Skill: Cross Stitch
 
-THE SLAB
+The Slab
 ====
 NPC: Grindle, behind a door Indolent
 Flea: bottom-left room
@@ -483,7 +497,7 @@ Boss: First Sinner
 drop down tower to water
 Weaver Effigy "Carving of Atla", right, through breakable walls
 
-THE CITADEL
+The Citadel
 ====
 
 Choral Chambers
@@ -491,7 +505,7 @@ Choral Chambers
 map machine: Choral Chambers [40]
 Ventrica: Grand Bellway [80]
 Bellway [80]
-Abyss: Task: Beast in the Bells
+Act 3: Task: Beast in the Bells
 Memory Locket, path directly above Bellway
 Task: Pharloom's Crown
 Ventrica: Choral Chambers [80]
@@ -535,7 +549,7 @@ Wishwall
 - Task: Pain, Anguish, and Misery
   * Dark Mirror
 NPC: Sherma
-- Abyss: Task: Awaiting the End
+- Act 3: Task: Awaiting the End
 NPC: Jubilana, vendor
 - Tool: Ascendant's Grip [350]
 - Mask Shard [750]
@@ -549,7 +563,7 @@ NPC: Jubilana, vendor
 Flea: up using Clawline rings to top
 Psalm Cylinder: "service", left back toward Songclave
 
-Abyss: Bellway
+Act 3: Bellway
 ----
 Boss: Bell Eater
 - Skill: Beastling Call
@@ -566,7 +580,7 @@ Tool: Cogfly, right tower middle-left path, req Craftmetal
 Boss: Second Sentinel, above lower-right bench
 - Tool: Reserve Bind
 Tool: Rosary Cannon, Rosary building, breakable wall lower-left
-Relic [Abyss]: Rune Harp "Last words of the Weavers", left of The Forum
+Relic [Act 3]: Rune Harp "Last words of the Weavers", left of The Forum
 
 Terminus
 ----
@@ -602,7 +616,7 @@ Mask Shard, tower middle-right, hidden path up, push block up
 Item: Cogheart Piece, tower bottom-left, cogwork memory reward
 Sacred Cylinder, bottom hall left of bench from Underworks right
 
-UNDERWORKS
+Underworks
 ====
 Relic: Bone Scroll "Filthy rag", left tower, left room, left breakable wall
 Flea: tower bottom-left, left past Cogwork Haulers
@@ -630,7 +644,7 @@ Memory Locket, hidden path above top bench, also from Whiteward
 Tool: Delver's Drill, lower-left tower, bottom-right path
 breakable wall right of Delver's Drill
 
-MOUNT FAY
+Mount Fay
 ====
 NPC: Shakra
 - Mount Fay Map [40]
@@ -646,9 +660,12 @@ Mask Shard, lower-left, req Faydown Cloak
 hidden path, right of Flea, rock at water level, req Silk Soar
 Mask Shard, Brightvein top
 
-SANDS OF KARAK
+Sands Of Karak
 ====
 Memory Locket, left from 2nd coral platforms
+hidden path above Memory Locket, req Silk Soar
+- Boss: Watcher at the Edge
+  * Grey Memento
 NPC: Shakra
 - Sands of Karak Map [90]
 Flea: middle tower, lower-right room, upper-left coral platform path
@@ -706,10 +723,11 @@ Craftmetal, far right in Fleatopia
 
 Fleatopia
 ----
+NPC: Seth 4, Act 3
 NPC: Fleamaster Mooshka
 - Toolpouch Expanded
 - Egg of Flealia
-- Ecstasy of the End [Abyss]
+- Ecstasy of the End [Act 3]
   * Pale Oil
 NPC: Grishkin
 NPC: Varga
@@ -719,7 +737,7 @@ NPC: Vog
 - Flea Findings
 Task: Passing of the Age, far right, up hidden path, req Silk Soar
 
-THE CRADLE
+The Cradle
 ====
 breakable wall, down-left from entrance, lore
 Cradle Map machine [70], up-left from entrance
@@ -730,9 +748,11 @@ Nameless Town
 ----
 Item: Surface Memento
 
-THE ABYSS
+The Abyss
 ====
+Map: room above lower bench
 Item: Arcane Egg
+Boss: Lost Lace
 
 Weavnest Absolom
 ----
@@ -744,3 +764,7 @@ Coral Tower, Elegy of the Deep
 ----
 Boss: Crust King Khann
 - Encrusted Heart
+
+Red Memory
+----
+Item: Everbloom
